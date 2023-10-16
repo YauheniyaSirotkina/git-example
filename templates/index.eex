@@ -1,0 +1,7 @@
+<h1>All The Pandas!</h1>
+
+<ul>
+  <%= for panda <- pandas do %>
+    <li><%= panda.name %> - <%= panda.type %></li>
+  <% end %>
+</ul>
