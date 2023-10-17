@@ -50,24 +50,9 @@
             "type": "giant panda"
         },
         {
-            "id": 11,
-            "name": "Toporik",
-            "type": "giant panda"
-        },
-        {
             "id": 12,
             "name": "Udavochka",
             "type": "red panda"
-        },
-        {
-            "id": 13,
-            "name": "Bubochka",
-            "type": "giant panda"
-        },
-        {
-          "id": 11,
-          "name": "Toporik",
-          "type": "red panda"
         }
     ]
 }

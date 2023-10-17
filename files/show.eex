@@ -1,0 +1,4 @@
+<h1>Show Panda</h1>
+<p>
+<%= panda.name %> is <strong><%= panda.type %></strong>
+</p>
