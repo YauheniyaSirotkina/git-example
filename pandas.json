@@ -1,0 +1,73 @@
+{
+    "pandas": [{
+            "id": 1,
+            "name": "Teddy",
+            "type": "giant panda",
+        },
+        {
+            "id": 2,
+            "name": "Smokey",
+            "type": "giant panda"
+        },
+        {
+            "id": 3,
+            "name": "Paddington",
+            "type": "giant panda"
+        },
+        {
+            "id": 4,
+            "name": "Scarface",
+            "type": "red panda"
+        },
+        {
+            "id": 5,
+            "name": "Snow",
+            "type": "giant panda"
+        },
+        {
+            "id": 6,
+            "name": "Brutus",
+            "type": "red panda"
+        },
+        {
+            "id": 7,
+            "name": "Rosie",
+            "type": "giant panda"
+        },
+        {
+            "id": 8,
+            "name": "Roscoe",
+            "type": "giant panda"
+        },
+        {
+            "id": 9,
+            "name": "Inuchi",
+            "type": "red panda"
+        },
+        {
+            "id": 10,
+            "name": "Kenai",
+            "type": "giant panda"
+        },
+        {
+            "id": 11,
+            "name": "Toporik",
+            "type": "giant panda"
+        },
+        {
+            "id": 12,
+            "name": "Udavochka",
+            "type": "red panda"
+        },
+        {
+            "id": 13,
+            "name": "Bubochka",
+            "type": "giant panda"
+        },
+        {
+          "id": 11,
+          "name": "Toporik",
+          "type": "red panda"
+        }
+    ]
+}
